@@ -26,7 +26,7 @@ I wrote an article which explores some of the concepts here, as well as walks th
 Clone the repository, set up the virtual environment, and install the required packages
 
 ```
-git clone git@github.com:smaameri/multi-doc-chatbot.git
+git clone git@github.com:codedmyst/multi-doc-chatbot.git
 cd multi-doc-chatbot
 python3 -m venv .venv
 . .venv/bin/activate
